@@ -1,6 +1,6 @@
 # Meta Two-Sample Testing
 
-Hi, this is the core code of our rencent work "Meta Two-Sample Testing: Learning Kernels for Testing with Limited Data" (https://arxiv.org/abs/2106.07636). This work is done by 
+Hi, this is the core code of our rencent work "Meta Two-Sample Testing: Learning Kernels for Testing with Limited Data" (NeurIPS2021, https://arxiv.org/abs/2106.07636). This work is done by 
 
 - Dr. Feng Liu (UTS), feng.liu@uts.edu.au
 - Dr. Wenkai Xu (Gatsby Unit, UCL), wenkaix@gatsby.ucl.ac.uk
