@@ -35,10 +35,10 @@ It can be seen that, test power on the target task will be significantly improve
 # Citation
 If you are using this code for your own researching, please consider citing
 ```
-@article{liu2021meta,
+@inproceedings{liu2021meta,
   title={Meta Two-Sample Testing: Learning Kernels for Testing with Limited Data},
   author={Liu, Feng and Xu, Wenkai and Lu, Jie and Sutherland, Danica J.},
-  journal={arXiv preprint arXiv:2106.07636},
+  booktitle={NeurIPS},
   year={2021}
 }
 ```
